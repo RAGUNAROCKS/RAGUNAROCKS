@@ -1,3 +1,5 @@
+## - Presentations
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-botani-91b277179/)
 
 - 👋 Hi, I'm Rafael Botani Jr., known by the nickname @RAGUNAROCKS.
@@ -8,7 +10,7 @@
 
 ![RAGUNAROCKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUNAROCKS&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia.
+## - Technologies I use in my day.
 
 <div>
   <img align = "center" alt = "HTML5" src = https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/>
@@ -30,7 +32,4 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGUNAROCKS)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-RAGUNAROCKS/RAGUNAROCKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
