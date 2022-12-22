@@ -27,7 +27,9 @@
   <img align = "center" alt = "HTML5" src = https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/>
   <img align = "center" alt = "HTML5" src = https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white/>
 </div>
+</br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 RAGUNAROCKS/RAGUNAROCKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
