@@ -8,7 +8,7 @@
 - 💞️ I seek to collaborate with the dev community through my knowledge and creativity. 
 - 📫 How to reach me? Follow me on LinkedIn at the link above to see my professional profile!
 
-![RAGUNAROCKS's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGUNAROCKS&show_icons=true&theme=dracula)
+![RAGUNAROCKS's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RAGUNAROCKS&show_icons=true&theme=dracula)
 
 ## - Technologies I use in my day.
 
@@ -31,5 +31,5 @@
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGUNAROCKS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RAGUNAROCKS)](https://github.com/anuraghazra/github-readme-stats)
 
